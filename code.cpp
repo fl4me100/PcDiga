@@ -1,5 +1,3 @@
-#C++
-
 #include <LiquidCrystal.h>
 #include <Adafruit_LiquidCrystal.h>
 
